@@ -156,29 +156,7 @@ export const BoatData = [
     phone: "+905320589978",
 
   },
-  {
-    id: "7",
-    Name: "YACHT - 5",
-    CardImage: "/images/boats/BOGAZ-COCUGU/1.jpg",
-    location: "İstanbul",
-    url: "yacht-5",
-    height: "19",
-    capacity: "12",
-    food: "10",
-    crew: "2",
-    DetailImages: [
-      "/images/boats/BOGAZ-COCUGU/1.jpg",
-      "/images/boats/BOGAZ-COCUGU/2.jpg",
-      "/images/boats/BOGAZ-COCUGU/3.jpg",
-      "/images/boats/BOGAZ-COCUGU/4.jpg",
-      "/images/boats/BOGAZ-COCUGU/5.jpg",
-      "/images/boats/BOGAZ-COCUGU/6.jpg",
-      "/images/boats/BOGAZ-COCUGU/7.jpg",
-      "/images/boats/BOGAZ-COCUGU/8.jpg",
-      "/images/boats/BOGAZ-COCUGU/9.jpg",
-      "/images/boats/BOGAZ-COCUGU/10.jpg",
-    ],
-  },
+
   {
     id: "8",
     Name: "YACHT - 6",
